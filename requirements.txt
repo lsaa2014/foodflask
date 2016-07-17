@@ -1,0 +1,8 @@
+flask>=0.10
+gunicorn>=18.0
+dill>=0.2
+Jinja2>=2.7
+oauth>=1.0
+oauthlib>=0.7
+requests>=2.2
+simplejson>=3.8
