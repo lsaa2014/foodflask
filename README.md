@@ -9,7 +9,7 @@ To prevent these diseases a consumer need to eat food rich in the nutrient or co
 For example it has been shown that intake of dietary fiber and whole grain is inversely related to obesity, type two diabetes, cancer and cardiovascular disease (CVD) (Lattimer & Haub, 2010) .
 Selenium is nutritionally essential for humans, is a constituent of more than two dozen selenoproteins that play critical roles in reproduction, thyroid hormone metabolism, DNA synthesis, and protection from oxidative damage and infection (Sunde RA, 2012).
 To help consumers, it could be a good idea to create an application where they can food which food is rich in the nutrient needed, so my project aims to create this application.
-From the National Nutrient Database for Standard Reference of the USDA <a href="https://ndb.nal.usda.gov/ndb/doc/apilist/API-NUTRIENT-REPORT.md">USDA</a>, I used the API and selected Breakfast Cereals, Baked Products and Cereal Grains and Pasta foods and their nutrient values to search food rich in fiber and selenium.
+From the National Nutrient Database for Standard Reference of the <a href="https://ndb.nal.usda.gov/ndb/doc/apilist/API-NUTRIENT-REPORT.md">USDA</a>, I used the API and selected Breakfast Cereals, Baked Products and Cereal Grains and Pasta foods and their nutrient values to search food rich in fiber and selenium.
 
 - Lattimer, J. M., & Haub, M. D. (2010). Effects of dietary fiber and its components on metabolic health. Nutrients, 2(12), 1266-1289. doi: 10.3390/nu2121266
 - Sunde RA. Selenium. In: Ross AC, Caballero B, Cousins RJ, Tucker KL, Ziegler TR, eds. Modern Nutrition in Health and Disease. 11th ed. Philadelphia, PA: Lippincott Williams & Wilkins; 2012:225-37
